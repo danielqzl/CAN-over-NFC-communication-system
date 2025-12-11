@@ -1,0 +1,9 @@
+../X-CUBE-NFC6/Target/demo_polling.c:181:13:demoNotif	24	static
+../X-CUBE-NFC6/Target/demo_polling.c:231:6:demoIni	24	static
+../X-CUBE-NFC6/Target/demo_polling.c:334:6:demoCycle	32	static
+../X-CUBE-NFC6/Target/demo_polling.c:515:13:demoCE	200	static
+../X-CUBE-NFC6/Target/demo_polling.c:565:13:demoNfcf	16	static
+../X-CUBE-NFC6/Target/demo_polling.c:605:13:demoNfcv	56	static
+../X-CUBE-NFC6/Target/demo_polling.c:660:13:demoT2t	4	static
+../X-CUBE-NFC6/Target/demo_polling.c:687:6:demoP2P	40	static
+../X-CUBE-NFC6/Target/demo_polling.c:728:6:demoAPDU	4	static

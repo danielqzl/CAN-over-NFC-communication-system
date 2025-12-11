@@ -1,0 +1,8 @@
+../Core/Src/ring_buffer.c:23:6:initializeRing	8	static
+../Core/Src/ring_buffer.c:32:6:Push_FNFC	40	static
+../Core/Src/ring_buffer.c:95:6:Forward_CAN	32	static
+../Core/Src/ring_buffer.c:125:6:PollCANRx	16	static
+../Core/Src/ring_buffer.c:219:12:demoTransceiveBlocking	16	static
+../Core/Src/ring_buffer.c:133:6:NFC_CAN_DataExchange	48	static
+../Core/Src/ring_buffer.c:237:6:timer_start	0	static
+../Core/Src/ring_buffer.c:257:6:timer_stop	8	static

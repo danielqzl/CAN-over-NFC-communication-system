@@ -1,0 +1,4 @@
+../X-CUBE-NFC6/Target/demo_polling.c:181:13:demoNotif	8
+../X-CUBE-NFC6/Target/demo_polling.c:732:6:demoP2P.isra	3
+../X-CUBE-NFC6/Target/demo_polling.c:236:6:demoIni	5
+../X-CUBE-NFC6/Target/demo_polling.c:339:6:demoCycle	35

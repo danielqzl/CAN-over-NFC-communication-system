@@ -1,0 +1,5 @@
+../Drivers/BSP/NFC08A1/nfc08a1.c:63:6:NFC08A1_LED_Init	80	static
+../Drivers/BSP/NFC08A1/nfc08a1.c:91:6:NFC08A1_LED_DeInit	16	static
+../Drivers/BSP/NFC08A1/nfc08a1.c:107:6:NFC08A1_LED_ON	4	static
+../Drivers/BSP/NFC08A1/nfc08a1.c:117:6:NFC08A1_LED_OFF	4	static
+../Drivers/BSP/NFC08A1/nfc08a1.c:127:6:NFC08A1_LED_Toggle	0	static
